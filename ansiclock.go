@@ -10,6 +10,8 @@ import (
 	"time"
 )
 
+const version = "First public version"
+
 type Colors struct {
 	Off bool
 
